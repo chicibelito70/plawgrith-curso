@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "role": "standard"
+    },
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce",
+      "role": "locked"
+    },
+    {
+      "username": "problem_user",
+      "password": "secret_sauce",
+      "role": "problem"
+    },
+    {
+      "username": "performance_glitch_user",
+      "password": "secret_sauce",
+      "role": "performance"
+    }
+  ],
+  "invalidCredentials": {
+    "username": "invalid_user",
+    "password": "invalid_password"
+  }
+}
